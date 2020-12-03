@@ -1,0 +1,24 @@
+{
+    "name": "express-gateway",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node .",
+        "start:dev": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GusNitrous/simple-express-gateway.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GusNitrous/simple-express-gateway/issues"
+    },
+    "homepage": "https://github.com/GusNitrous/simple-express-gateway#readme",
+    "dependencies": {},
+    "devDependencies": {}
+}
